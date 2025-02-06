@@ -1,4 +1,4 @@
-# Sobre mí
+# Exequiel Pulgar Cerda.
 
 Desarrollador de aplicaciones FullStack Java, con un enfoque en la construcción de aplicaciones eficientes y bien estructuradas. Disciplinado, ordenado, serio y responsable son mis cualidades que aplico en cada proyecto y en mi día a día.
 
