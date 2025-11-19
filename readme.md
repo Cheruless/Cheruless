@@ -9,7 +9,6 @@ Soy una persona proactiva y autónoma. Siempre dispuesto a apoyar a mis compañe
 - **Backend**: Java, Spring Boot, Jakarta EE, Oracle SQL, MySQL
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Herramientas**: IntelliJ IDEA, Visual Studio Code, NetBeans, Maven, React, Git, GitHub
-- **Principios**: Código limpio, modularización, SOLID, buenas prácticas, arquitectura escalable
 
 ## Filosofía de Trabajo
 
